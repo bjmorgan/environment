@@ -1,5 +1,9 @@
 #! /usr/bin/env python3
 
+__author__ = "Benjamin J. Morgan"
+__date__ = "Aug 22, 2018"
+__url__ = "https://github.com/bjmorgan/environment"
+
 import platform
 import pip
 import sys
