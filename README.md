@@ -4,7 +4,7 @@ Scripts for reporting Python runtime environment.
 
 ## Snakemake usage
 
-This repo contains an example [snakemake](https://snakemake.readthedocs.io/en/stable/) workflow that uses the `environment.py` script to save a list of environment information to `sys_info.txt`. If snakemake is installed, this workflow can be run using
+This repo contains an example [Snakemake]Shttps://snakemake.readthedocs.io/en/stable/) workflow that uses the `environment.py` script to save a list of environment information to `sys_info.txt`. If Snakemake is installed, this workflow can be run using
 ```
 snakemake --snakefile environment.smk
 ```
